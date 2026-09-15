@@ -1,0 +1,26 @@
+{
+ "key": "image-studio",
+ "name": "Image Studio (generation, editor, styles)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Scene frames, characters, backgrounds, thumbnails, concept art, variations, prompt enhancement, aspect ratios and the visual style system.",
+ "features": [
+  19,
+  20,
+  21
+ ],
+ "capabilities": [
+  "image"
+ ],
+ "requires": [
+  "ai-director"
+ ],
+ "stage": {
+  "key": "images",
+  "label": "Images",
+  "icon": "\ud83c\udfa8",
+  "order": 6
+ },
+ "routes": [],
+ "settings": {}
+}

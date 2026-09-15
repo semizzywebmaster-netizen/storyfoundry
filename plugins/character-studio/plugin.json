@@ -1,0 +1,28 @@
+{
+ "key": "character-studio",
+ "name": "Character Studio (bible, lock, relationships)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Character creation, bible entries, character lock for visual consistency and a relationship map.",
+ "features": [
+  11,
+  12,
+  13,
+  14
+ ],
+ "capabilities": [
+  "text",
+  "image"
+ ],
+ "requires": [
+  "story-studio"
+ ],
+ "stage": {
+  "key": "characters",
+  "label": "Characters",
+  "icon": "\ud83e\uddd1",
+  "order": 3
+ },
+ "routes": [],
+ "settings": {}
+}

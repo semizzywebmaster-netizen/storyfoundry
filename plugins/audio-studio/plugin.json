@@ -1,0 +1,26 @@
+{
+ "key": "audio-studio",
+ "name": "Audio Studio (music, SFX, mixing)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "AI music and sound effects generation with per-track mixing, fades and a master bus.",
+ "features": [
+  24,
+  25,
+  26
+ ],
+ "capabilities": [
+  "music"
+ ],
+ "requires": [
+  "voice-studio"
+ ],
+ "stage": {
+  "key": "audio",
+  "label": "Music & SFX",
+  "icon": "\ud83c\udfb5",
+  "order": 8
+ },
+ "routes": [],
+ "settings": {}
+}

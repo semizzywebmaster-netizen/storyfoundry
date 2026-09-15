@@ -1,0 +1,17 @@
+{
+ "key": "subscriptions",
+ "name": "Subscriptions & Plans",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Plan management, renewals, trials, per-plan credit grants and per-plan feature gating.",
+ "features": [
+  53
+ ],
+ "capabilities": [],
+ "requires": [
+  "billing-suite"
+ ],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

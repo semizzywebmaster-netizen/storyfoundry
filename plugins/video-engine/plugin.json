@@ -1,0 +1,24 @@
+{
+ "key": "video-engine",
+ "name": "Video Engine (image\u2192video)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Animates scene frames into clips with motion intensity, camera movement, loop and duration control, queued in the background.",
+ "features": [
+  27
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [
+  "image-studio"
+ ],
+ "stage": {
+  "key": "video",
+  "label": "Video",
+  "icon": "\ud83c\udfa5",
+  "order": 9
+ },
+ "routes": [],
+ "settings": {}
+}

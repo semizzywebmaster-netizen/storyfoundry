@@ -1,0 +1,17 @@
+# Local configuration (created by install.php — never commit)
+/config.php
+
+# Runtime data
+/storage/logs/*
+/storage/cache/*
+/uploads/*
+!/uploads/.gitkeep
+!/storage/logs/.gitkeep
+!/storage/cache/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local rescue / analysis aids (not part of the shipped product)
+tools/

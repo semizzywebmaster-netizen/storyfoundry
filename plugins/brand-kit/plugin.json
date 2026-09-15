@@ -1,0 +1,18 @@
+{
+  "key": "brand-kit",
+  "name": "Brand Kit",
+  "version": "1.0.0",
+  "author": "STORYFOUNDRY",
+  "description": "Feature 70: logos, colours, fonts, watermark, intro/outro, style presets and templates. Reusable per project.",
+  "requires": [],
+  "stage": null,
+  "features": ["brandkit"],
+  "capabilities": [],
+  "routes": [
+    {"route": "brandkit", "label": "Brand Kit", "icon": "🎨"}
+  ],
+  "settings": {
+    "wm_default_opacity": 60,
+    "max_kits": 12
+  }
+}

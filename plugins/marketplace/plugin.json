@@ -1,0 +1,20 @@
+{
+ "key": "marketplace",
+ "name": "Marketplace",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Buy and sell templates, scripts, voices presets, characters and plugins with commission tracking.",
+ "features": [
+  71,
+  72
+ ],
+ "capabilities": [],
+ "requires": [
+  "billing-suite"
+ ],
+ "stage": null,
+ "routes": [
+  "marketplace"
+ ],
+ "settings": {}
+}

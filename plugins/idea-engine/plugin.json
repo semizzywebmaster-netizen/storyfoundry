@@ -1,0 +1,22 @@
+{
+ "key": "idea-engine",
+ "name": "AI Story Idea Engine",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Genre, tone, audience and culture-aware story concepts with conflict, twist and ending options.",
+ "features": [
+  6
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [],
+ "stage": {
+  "key": "idea",
+  "label": "Idea",
+  "icon": "\ud83d\udca1",
+  "order": 1
+ },
+ "routes": [],
+ "settings": {}
+}

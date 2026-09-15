@@ -1,0 +1,18 @@
+{
+ "key": "analytics-pro",
+ "name": "Analytics Pro",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Creator analytics plus platform-wide admin analytics: usage, costs, providers, retention and export.",
+ "features": [
+  43,
+  64
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [
+  "analytics"
+ ],
+ "settings": {}
+}

@@ -1,0 +1,24 @@
+{
+ "key": "media-pipeline",
+ "name": "Media Pipeline (FFmpeg)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Detects FFmpeg, enables real rendering, audio mixing and subtitle burning, and reports honest status in Admin.",
+ "features": [
+  29,
+  76,
+  77
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [],
+ "stage": {
+  "key": "pipeline",
+  "label": "Pipeline",
+  "icon": "\u2699\ufe0f",
+  "order": 16
+ },
+ "routes": [],
+ "settings": {}
+}

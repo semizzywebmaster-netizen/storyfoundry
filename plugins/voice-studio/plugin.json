@@ -1,0 +1,25 @@
+{
+ "key": "voice-studio",
+ "name": "Voice Studio",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "AI narration and per-character voices with emotion, speaking style, rate/pitch and language selection.",
+ "features": [
+  22,
+  23
+ ],
+ "capabilities": [
+  "voice"
+ ],
+ "requires": [
+  "character-studio"
+ ],
+ "stage": {
+  "key": "voice",
+  "label": "Voice",
+  "icon": "\ud83d\udde3\ufe0f",
+  "order": 7
+ },
+ "routes": [],
+ "settings": {}
+}

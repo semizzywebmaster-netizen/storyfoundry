@@ -1,0 +1,24 @@
+{
+ "key": "thumbnail-studio",
+ "name": "Thumbnail Studio",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Generates click-worthy thumbnails with text, faces, arrows, emoji and A/B testing.",
+ "features": [
+  31
+ ],
+ "capabilities": [
+  "image"
+ ],
+ "requires": [
+  "image-studio"
+ ],
+ "stage": {
+  "key": "thumbnail",
+  "label": "Thumbnail",
+  "icon": "\ud83d\uddbc\ufe0f",
+  "order": 12
+ },
+ "routes": [],
+ "settings": {}
+}

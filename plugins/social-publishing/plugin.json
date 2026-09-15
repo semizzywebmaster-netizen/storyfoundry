@@ -1,0 +1,20 @@
+{
+ "key": "social-publishing",
+ "name": "Social Publishing & Scheduling",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Connect accounts, schedule posts and export platform-ready files. Direct posting uses each network's official API only when connected.",
+ "features": [
+  73,
+  74
+ ],
+ "capabilities": [],
+ "requires": [
+  "social-suite"
+ ],
+ "stage": null,
+ "routes": [
+  "publishing"
+ ],
+ "settings": {}
+}

@@ -1,0 +1,33 @@
+{
+ "key": "runway",
+ "name": "Runway (image to video)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Commercial image-to-video generation via the Runway ML API.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {
+  "api_key": ""
+ },
+ "provider": {
+  "capability": "video",
+  "config_fields": {
+   "api_key": "Runway API key",
+   "model": "Model (gen3a_turbo)"
+  },
+  "models": [
+   "gen3a_turbo",
+   "gen4_turbo"
+  ],
+  "priority": 15,
+  "docs": "https://docs.dev.runwayml.com"
+ }
+}

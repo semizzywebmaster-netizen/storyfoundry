@@ -1,0 +1,26 @@
+{
+ "key": "ai-director",
+ "name": "AI Director (shot list + storyboard)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Converts scenes into camera, lens, movement, blocking and continuity instructions; builds the shot list and storyboard.",
+ "features": [
+  16,
+  17,
+  18
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "scene-engine"
+ ],
+ "stage": {
+  "key": "shots",
+  "label": "Shots",
+  "icon": "\ud83c\udf9e\ufe0f",
+  "order": 5
+ },
+ "routes": [],
+ "settings": {}
+}

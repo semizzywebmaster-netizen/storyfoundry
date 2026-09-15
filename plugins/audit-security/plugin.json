@@ -1,0 +1,16 @@
+{
+ "key": "audit-security",
+ "name": "Audit & Security",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Audit trail, security log, suspicious-activity review, session visibility, 2FA and role/permission governance.",
+ "features": [
+  65,
+  78
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

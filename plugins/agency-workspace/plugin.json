@@ -1,0 +1,21 @@
+{
+ "key": "agency-workspace",
+ "name": "Agency Workspace & Clients",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Multi-client workspaces, team roles and permissions, client approval links and white-label exports.",
+ "features": [
+  66,
+  67,
+  68,
+  69
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [
+  "agency",
+  "clients"
+ ],
+ "settings": {}
+}

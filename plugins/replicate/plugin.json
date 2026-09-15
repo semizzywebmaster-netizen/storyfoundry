@@ -1,0 +1,33 @@
+{
+ "key": "replicate",
+ "name": "Replicate (images / video)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Runs open image and video models (SVD, video-01, AnimateDiff) via Replicate predictions.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {
+  "api_key": ""
+ },
+ "provider": {
+  "capability": "video",
+  "config_fields": {
+   "api_key": "Replicate API token",
+   "model": "Video model (owner/name)"
+  },
+  "models": [
+   "minimax/video-01",
+   "stability-ai/stable-video-diffusion"
+  ],
+  "priority": 20,
+  "docs": "https://replicate.com/docs"
+ }
+}

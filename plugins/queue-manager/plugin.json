@@ -1,0 +1,17 @@
+{
+ "key": "queue-manager",
+ "name": "Queue Manager",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "MySQL job queue with retries, priorities, progress, cancellation and a live worker dashboard. No Redis required.",
+ "features": [
+  45,
+  46,
+  47
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

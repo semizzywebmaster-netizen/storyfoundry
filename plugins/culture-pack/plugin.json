@@ -1,0 +1,15 @@
+{
+ "key": "culture-pack",
+ "name": "Culture Pack",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "20 culture contexts (names, places, greetings, food, flora, texture) that shape stories, images and voice \u2014 never stereotypes.",
+ "features": [
+  80
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

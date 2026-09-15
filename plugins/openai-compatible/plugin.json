@@ -1,0 +1,31 @@
+{
+ "key": "openai-compatible",
+ "name": "OpenAI-Compatible API (any provider)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Connect ANY OpenAI-compatible endpoint — OpenRouter, Groq, Together, Fireworks, DeepSeek, Mistral, Ollama, LM Studio, or your own proxy — for text, images and voice. You supply base URL, key and model.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "text",
+  "image",
+  "voice"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {},
+ "provider": {
+  "capability": "text",
+  "config_fields": {
+   "base_url": "Base URL (e.g. https://openrouter.ai/api/v1)",
+   "api_key": "API key",
+   "model": "Model id"
+  },
+  "models": [],
+  "priority": 20,
+  "docs": "Works with any service that implements the OpenAI REST schema (/chat/completions, /images/generations, /audio/speech)."
+ }
+}

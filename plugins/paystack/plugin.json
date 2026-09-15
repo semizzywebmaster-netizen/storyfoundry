@@ -1,0 +1,19 @@
+{
+ "key": "paystack",
+ "name": "Paystack Payments",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Naira (and multi-currency) card/bank payments via Paystack, verified server-side before value is granted.",
+ "features": [
+  51
+ ],
+ "capabilities": [],
+ "requires": [
+  "billing-suite"
+ ],
+ "stage": null,
+ "routes": [
+  "paystack/callback"
+ ],
+ "settings": {}
+}

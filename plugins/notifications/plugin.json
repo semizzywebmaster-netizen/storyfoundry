@@ -1,0 +1,16 @@
+{
+ "key": "notifications",
+ "name": "Notifications & Announcements",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "In-app notifications, announcements, unread badge and admin broadcast tools.",
+ "features": [
+  59,
+  60
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

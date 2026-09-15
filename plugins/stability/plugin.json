@@ -1,0 +1,33 @@
+{
+ "key": "stability",
+ "name": "Stability AI (images)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Stable Diffusion image generation. Requires your own API key.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "image"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {
+  "api_key": ""
+ },
+ "provider": {
+  "capability": "image",
+  "config_fields": {
+   "api_key": "Stability API key",
+   "model": "Model (sd3.5-large)"
+  },
+  "models": [
+   "sd3.5-large",
+   "sd3.5-medium"
+  ],
+  "priority": 20,
+  "docs": "https://platform.stability.ai/docs/api-reference"
+ }
+}

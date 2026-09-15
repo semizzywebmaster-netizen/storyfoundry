@@ -1,0 +1,25 @@
+{
+ "key": "content-factory",
+ "name": "Content Factory (batch + series)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Batch creation, content series, shorts generator, repurposing and scheduling \u2014 produce many pieces from one brief.",
+ "features": [
+  35,
+  36
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "export-suite"
+ ],
+ "stage": {
+  "key": "factory",
+  "label": "Factory",
+  "icon": "\ud83c\udfed",
+  "order": 17
+ },
+ "routes": [],
+ "settings": {}
+}

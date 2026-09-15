@@ -1,0 +1,18 @@
+{
+ "key": "pwa-pack",
+ "name": "PWA Pack",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Installable app: web manifest, service worker, offline shell and mobile-first meta tags.",
+ "features": [
+  75
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": null,
+ "routes": [
+  "manifest.json",
+  "sw.js"
+ ],
+ "settings": {}
+}

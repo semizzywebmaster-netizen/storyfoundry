@@ -1,0 +1,20 @@
+{
+ "key": "asset-library",
+ "name": "Asset Library",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Every generated image, voice, music track, SFX, clip and document in one searchable library with folders, favourites and signed sharing.",
+ "features": [
+  37
+ ],
+ "capabilities": [],
+ "requires": [],
+ "stage": {
+  "key": "library",
+  "label": "Library",
+  "icon": "\ud83d\uddc2\ufe0f",
+  "order": 15
+ },
+ "routes": [],
+ "settings": {}
+}

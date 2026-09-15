@@ -1,0 +1,24 @@
+{
+ "key": "export-suite",
+ "name": "Export Suite",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Export video and every derivative (script, shot list, subtitles, frames, audio stems, project bundle) with signed, expiring links.",
+ "features": [
+  81
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [
+  "social-suite"
+ ],
+ "stage": {
+  "key": "export",
+  "label": "Export",
+  "icon": "\ud83d\udce6",
+  "order": 14
+ },
+ "routes": [],
+ "settings": {}
+}

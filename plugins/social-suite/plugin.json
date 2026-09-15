@@ -1,0 +1,26 @@
+{
+ "key": "social-suite",
+ "name": "Social Media Pack",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Platform-optimised clips, captions, hashtags, posting times, auto clips and repurposing for every network.",
+ "features": [
+  32,
+  33,
+  34
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "subtitle-studio"
+ ],
+ "stage": {
+  "key": "social",
+  "label": "Social Pack",
+  "icon": "\ud83d\udcf1",
+  "order": 13
+ },
+ "routes": [],
+ "settings": {}
+}

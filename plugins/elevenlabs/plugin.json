@@ -1,0 +1,32 @@
+{
+ "key": "elevenlabs",
+ "name": "ElevenLabs (voices)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Neural text-to-speech. Uses licensed/default voices only - no cloning of real people.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "voice"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {
+  "api_key": ""
+ },
+ "provider": {
+  "capability": "voice",
+  "config_fields": {
+   "api_key": "ElevenLabs API key",
+   "voice_id": "Default voice id"
+  },
+  "models": [
+   "eleven_multilingual_v2"
+  ],
+  "priority": 20,
+  "docs": "https://elevenlabs.io/docs/api-reference"
+ }
+}

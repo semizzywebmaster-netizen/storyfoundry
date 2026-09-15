@@ -1,0 +1,24 @@
+{
+ "key": "subtitle-studio",
+ "name": "Subtitle Studio",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Auto subtitles, karaoke highlighting, style presets, burning-in and multi-language translation.",
+ "features": [
+  30
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "timeline-editor"
+ ],
+ "stage": {
+  "key": "subtitles",
+  "label": "Subtitles",
+  "icon": "\ud83d\udcac",
+  "order": 11
+ },
+ "routes": [],
+ "settings": {}
+}

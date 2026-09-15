@@ -1,0 +1,19 @@
+{
+ "key": "flutterwave",
+ "name": "Flutterwave Payments",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Card, bank transfer and mobile money via Flutterwave with server-side verification and webhook support.",
+ "features": [
+  52
+ ],
+ "capabilities": [],
+ "requires": [
+  "billing-suite"
+ ],
+ "stage": null,
+ "routes": [
+  "flutterwave/callback"
+ ],
+ "settings": {}
+}

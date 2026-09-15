@@ -1,0 +1,35 @@
+{
+ "key": "openai",
+ "name": "OpenAI (text + images)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "GPT-class text and DALL-E image generation through the OpenAI REST API. Requires your own API key.",
+ "features": [
+  40,
+  41
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [],
+ "stage": null,
+ "routes": [],
+ "settings": {
+  "api_key": ""
+ },
+ "provider": {
+  "capability": "text",
+  "config_fields": {
+   "api_key": "OpenAI API key",
+   "model": "Model (gpt-4o-mini)",
+   "image_model": "Image model (dall-e-3)"
+  },
+  "models": [
+   "gpt-4o-mini",
+   "gpt-4o",
+   "dall-e-3"
+  ],
+  "priority": 10,
+  "docs": "https://platform.openai.com/docs/api-reference"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "key": "scene-engine",
+ "name": "Scene Engine",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Breaks the story into shootable scenes with location, time, weather, cast, props, mood and continuity.",
+ "features": [
+  15
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "character-studio"
+ ],
+ "stage": {
+  "key": "scenes",
+  "label": "Scenes",
+  "icon": "\ud83c\udfac",
+  "order": 4
+ },
+ "routes": [],
+ "settings": {}
+}

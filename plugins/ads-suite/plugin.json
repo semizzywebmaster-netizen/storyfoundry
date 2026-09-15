@@ -1,0 +1,18 @@
+{
+ "key": "ads-suite",
+ "name": "Advertising & Monetisation",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Rewarded ads, banner placements, promo codes and ad-event logging with a full admin dashboard.",
+ "features": [
+  57,
+  58
+ ],
+ "capabilities": [],
+ "requires": [
+  "billing-suite"
+ ],
+ "stage": null,
+ "routes": [],
+ "settings": {}
+}

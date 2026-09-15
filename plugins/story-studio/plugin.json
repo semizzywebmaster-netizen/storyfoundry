@@ -1,0 +1,27 @@
+{
+ "key": "story-studio",
+ "name": "Story Studio (generator, workspace, doctor, rewrite)",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "AI story generation, chapter workspace with versions, Story Doctor analysis and Rewrite Studio.",
+ "features": [
+  7,
+  8,
+  9,
+  10
+ ],
+ "capabilities": [
+  "text"
+ ],
+ "requires": [
+  "idea-engine"
+ ],
+ "stage": {
+  "key": "story",
+  "label": "Story",
+  "icon": "\u270d\ufe0f",
+  "order": 2
+ },
+ "routes": [],
+ "settings": {}
+}

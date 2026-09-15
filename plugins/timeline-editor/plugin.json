@@ -1,0 +1,24 @@
+{
+ "key": "timeline-editor",
+ "name": "Timeline Editor",
+ "version": "1.0.0",
+ "author": "STORYFOUNDRY",
+ "description": "Multi-track timeline with clips, transitions, text overlays, trim/split/reorder and a preview montage.",
+ "features": [
+  28
+ ],
+ "capabilities": [
+  "video"
+ ],
+ "requires": [
+  "video-engine"
+ ],
+ "stage": {
+  "key": "timeline",
+  "label": "Timeline",
+  "icon": "\ud83c\udf9e\ufe0f",
+  "order": 10
+ },
+ "routes": [],
+ "settings": {}
+}
